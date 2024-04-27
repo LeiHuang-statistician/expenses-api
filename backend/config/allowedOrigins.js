@@ -2,7 +2,7 @@
 let allowedOrigins;
 
 allowedOrigins = [
-    'http://expenses.onrender.com',
+    'https://expenses-6lg3.onrender.com',
     'https://expenses-api-xdvj.onrender.com',
     ]
 
